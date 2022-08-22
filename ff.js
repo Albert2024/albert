@@ -208,7 +208,7 @@ kefucontent.innerHTML = `
 <div id="kefu-home-detail-open">
     <div class="detail-content">
         <h1>
-            <span>BOB体育官网公告</span>  
+            <span>BOB体育公告</span>  
             <small onclick="closeKEFUGG()" class="close-gg">
                 关闭
             </small>
@@ -217,7 +217,9 @@ kefucontent.innerHTML = `
            <p>1、【BOB体育官网公告】注册首冲联系客服送彩金<a href="${kefu_url}" target="_blank">联系客服</a> </p>
            <!--<p>2、知名平台用户可平移 赠送免费体验金 <a href="${kefu_url}" target="_blank">立即领取 </a></p>-->
            <p>2、<span style="color:red;">【备战世界杯】</span> 更多优惠彩金 限时领取 2023年1月15日</p>
-           <p>3、注册、充值、提款、下载等问题，请联系网页上在线客服，能急速为您解决难题。</br>
+           <p>3、注册、充值、提款、下载等问题，请联系网页上在线客服，能急速为您解决难题。</p>
+           <p>4、如充值失败，请多尝试几次！</p></br>
+           <p>5、反诈app与博彩app不能同时存在，请注意</p>
         </div>
         
         <div class="download-gg">
