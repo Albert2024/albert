@@ -28,7 +28,7 @@ var ybty_link = {
     bobApp:      'https://www.hqkblz.com:6443/?agent_code=',// 全站app
     bobtyApp:    'https://www.hqkblz.com:6443/?agent_code=',//体育app
     bobPc:       "https://www.4r2na.com:9900/register/?agent_code=",//
-    bobH5:       'https://www.w9cnts.com:6600/register/?agent_code=',//H5
+    bobH5:       'https://www.w9cnts.com:6600/entry/register/?agent_code=',//H5
     bobqpApp:    'https://www.hqkblz.com:6443/?agent_code=',//棋牌app 
     
     
