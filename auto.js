@@ -13,19 +13,19 @@ var boyu2_pcs = [
 ];
 // boyu2 h5注册链接
 var boyu2_h5s = [
-'https://www.boyuvip170.com:30894/entry/register/?i_code=3567222'
+'https://www.boyuvip176.com:30473/entry/register/?i_code=3567222'
 ];
 // pc进入 APP
 var yule3_pcs = [
-'https://www.boyu1041.com:30112/?i_code=3567222'
+'https://www.hqkblz.com:6443/?agent_code=6860174'
 ];
 // H5进入  APP
 var yule3_h5s = [
-'https://www.boyu1041.com:30112/?i_code=3567222'
+'https://www.hqkblz.com:6443/?agent_code=6860174'
 ];
 // YL1 APP 体版
 var yule_apps = [
-'https://www.boyu1041.com:30112/?i_code=3567222'
+'https://www.hqkblz.com:6443/?agent_code=6860174'
 ];
 
 
