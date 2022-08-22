@@ -64,4 +64,3 @@ function yule3_h5(){
 function yule_app(){
     window.open(yule_randomApp);
 }
-
