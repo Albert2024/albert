@@ -35,7 +35,7 @@ var ybty_link = {
     byApp:      'https://www.boyu1041.com:30112/?i_code=',// 全站app
     bytyApp:    'https://www.boyu1041.com:30112/?i_code=',// 体育app
     byPc:       'hhttps://www.boyu1010.com:30111/register/?i_code=',
-    byH5:       'https://www.boyuvip170.com:30894/entry/register/?i_code=',
+    byH5:       'https://www.boyuvip176.com:30473/entry/register/?i_code=',
     
     
     
